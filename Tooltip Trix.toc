@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title : Tooltip Trix
+## Notes: Adds information about who in your party targets your mouseover
+## Author: Acidtrix
+## Version: 0.1
+
+Tooltip Trix.lua
